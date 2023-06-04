@@ -9,6 +9,8 @@
             lista.inserirInicio(7);
             lista.removerInicio();
             lista.inserirFim(10);
+            lista.removerFim();
+            lista.removerInicio();
             //7 -> 12 -> 22 -> NULL
             lista.percurso();
 

@@ -81,12 +81,5 @@ public void inserirFim(int Valor)//inserir no fim da lista
             noAux = noAux.noProx;            
         }
     }
-//estrutura do MENU
-
-
-
-
-
-
-
+    
 }
