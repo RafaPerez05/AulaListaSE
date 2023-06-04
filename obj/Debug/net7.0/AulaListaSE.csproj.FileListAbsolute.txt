@@ -1,0 +1,15 @@
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\bin\Debug\net7.0\AulaListaSE.exe
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\bin\Debug\net7.0\AulaListaSE.deps.json
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\bin\Debug\net7.0\AulaListaSE.runtimeconfig.json
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\bin\Debug\net7.0\AulaListaSE.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\bin\Debug\net7.0\AulaListaSE.pdb
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\AulaListaSE.csproj.AssemblyReference.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\AulaListaSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\AulaListaSE.AssemblyInfoInputs.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\AulaListaSE.AssemblyInfo.cs
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\AulaListaSE.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\AulaListaSE.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\refint\AulaListaSE.dll
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\AulaListaSE.pdb
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\AulaListaSE.genruntimeconfig.cache
+C:\Users\bruno\Trabalho\Aulas\FATEC\Cursos\ADS-AMS\Estruturas de Dados\Aulas\Aula6\AulaListaSE\obj\Debug\net7.0\ref\AulaListaSE.dll

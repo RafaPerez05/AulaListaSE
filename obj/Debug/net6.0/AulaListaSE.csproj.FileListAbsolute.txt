@@ -1,0 +1,15 @@
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\bin\Debug\net6.0\AulaListaSE.exe
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\bin\Debug\net6.0\AulaListaSE.deps.json
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\bin\Debug\net6.0\AulaListaSE.runtimeconfig.json
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\bin\Debug\net6.0\AulaListaSE.dll
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\bin\Debug\net6.0\AulaListaSE.pdb
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\AulaListaSE.csproj.AssemblyReference.cache
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\AulaListaSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\AulaListaSE.AssemblyInfoInputs.cache
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\AulaListaSE.AssemblyInfo.cs
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\AulaListaSE.csproj.CoreCompileInputs.cache
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\AulaListaSE.dll
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\refint\AulaListaSE.dll
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\AulaListaSE.pdb
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\AulaListaSE.genruntimeconfig.cache
+C:\Users\User\Área de Trabalho\fatec\AulaListaSE\obj\Debug\net6.0\ref\AulaListaSE.dll
